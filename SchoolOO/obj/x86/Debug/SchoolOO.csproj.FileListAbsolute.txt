@@ -1,0 +1,12 @@
+C:\Users\Celso\Documents\Visual Studio 2010\Projects\SchoolOO\SchoolOO\bin\Debug\SchoolOO.exe
+C:\Users\Celso\Documents\Visual Studio 2010\Projects\SchoolOO\SchoolOO\bin\Debug\SchoolOO.pdb
+C:\Users\Celso\Documents\Visual Studio 2010\Projects\SchoolOO\SchoolOO\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Celso\Documents\Visual Studio 2010\Projects\SchoolOO\SchoolOO\obj\x86\Debug\SchoolOO.Properties.Resources.resources
+C:\Users\Celso\Documents\Visual Studio 2010\Projects\SchoolOO\SchoolOO\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Celso\Documents\Visual Studio 2010\Projects\SchoolOO\SchoolOO\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Celso\Documents\Visual Studio 2010\Projects\SchoolOO\SchoolOO\obj\x86\Debug\SchoolOO.exe
+C:\Users\Celso\Documents\Visual Studio 2010\Projects\SchoolOO\SchoolOO\obj\x86\Debug\SchoolOO.pdb
+C:\Users\Celso\Documents\Visual Studio 2010\Projects\SchoolOO\SchoolOO\bin\Debug\SchoolOO.exe.config
+C:\Users\Celso\Documents\Visual Studio 2010\Projects\SchoolOO\SchoolOO\obj\x86\Debug\SchoolOO.View.PersonDetail.resources
+C:\Users\Celso\Documents\Visual Studio 2010\Projects\SchoolOO\SchoolOO\obj\x86\Debug\SchoolOO.View.PersonView.resources
+C:\Users\Celso\Documents\Visual Studio 2010\Projects\SchoolOO\SchoolOO\obj\x86\Debug\SchoolOO.Form1.resources
